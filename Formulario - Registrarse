@@ -52,7 +52,7 @@
       </form>
       <form action="#" method="post">
         <label for="password"></label>
-        <input type="password" placeholder="ingrese una contraseña" minlength="8" maxlength="20">
+        <input type="password" placeholder="Ingrese una contraseña" minlength="8" maxlength="20">
       </form>
       <form action="#" method="post">
         <label for="passwordV"></label>
